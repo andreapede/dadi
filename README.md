@@ -111,26 +111,3 @@ The algorithm is implemented in Dart/Flutter using:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
-
-This README now includes:
-1. Project overview and features
-2. Setup instructions
-3. Detailed algorithm explanation
-4. Probability table example for 3d6
-5. Implementation details
-6. Relevant resources
-7. License information
-
-The probability table shows the distribution of all possible sums for three six-sided dice, which is a common reference case in probability calculations.
-This README now includes:
-1. Project overview and features
-2. Setup instructions
-3. Detailed algorithm explanation
-4. Probability table example for 3d6
-5. Implementation details
-6. Relevant resources
-7. License information
-
-The probability table shows the distribution of all possible sums for three six-sided dice, which is a common reference case in probability calculations.
-
-

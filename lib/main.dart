@@ -9,6 +9,8 @@ void main() {
 
 // Root widget of the application - Stateless because it doesn't need to maintain any state
 class DiceProbabilityApp extends StatelessWidget {
+  const DiceProbabilityApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -23,6 +25,8 @@ class DiceProbabilityApp extends StatelessWidget {
 
 // Main screen widget - Stateful because it needs to maintain state (dice results, etc.)
 class DiceScreen extends StatefulWidget {
+  const DiceScreen({super.key});
+
   @override
   _DiceScreenState createState() => _DiceScreenState();
 }
